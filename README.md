@@ -62,6 +62,9 @@ You can easily modify:
 📷 Screenshot <br>
 <img width="361" height="401" alt="image" src="https://github.com/user-attachments/assets/660eccd7-551f-402e-b96b-a4a35f9e9e88" />
 
+📄 License<br>
+- You may release this project under any license you prefer (MIT recommended).
+
 🤝 Contributing<br>
 - Pull requests and suggestions are welcome.
 - Feel free to open an issue for enhancements or bug reports.
