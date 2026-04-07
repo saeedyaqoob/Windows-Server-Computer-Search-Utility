@@ -63,5 +63,5 @@ You can easily modify:
 <img width="361" height="401" alt="image" src="https://github.com/user-attachments/assets/660eccd7-551f-402e-b96b-a4a35f9e9e88" />
 
 🤝 Contributing<br>
-Pull requests and suggestions are welcome.
-Feel free to open an issue for enhancements or bug reports.
+- Pull requests and suggestions are welcome.
+- Feel free to open an issue for enhancements or bug reports.
