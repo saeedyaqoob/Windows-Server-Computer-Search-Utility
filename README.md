@@ -59,7 +59,7 @@ You can easily modify:
 - Displayed AD attributes
 - GUI layout (labels, fonts, sizes)
 
-📷 Screenshot <br>
+📷 Screenshot <br><br>
 <img width="361" height="401" alt="image" src="https://github.com/user-attachments/assets/660eccd7-551f-402e-b96b-a4a35f9e9e88" />
 
 📄 License<br>
