@@ -1,8 +1,8 @@
-🖥️ Windows Server / Computer Search Utility
+🖥️ Windows Server / Computer Search Utility<br>
 A lightweight PowerShell GUI tool for searching computer objects across multiple Active Directory domains.
 This utility provides a simple graphical interface that allows administrators to quickly locate Windows servers or workstations, retrieve key AD attributes, and display them in an easy‑to‑read format.
 
-📌 Features
+📌 Features<br>
 - GUI built with Windows Forms
 - Search for computers across multiple AD domains
 - Selectable organization/domain groups
@@ -21,14 +21,14 @@ This utility provides a simple graphical interface that allows administrators to
 - Clean, scrollable output window
 - Console window hidden for a cleaner user experience
 
-📁 Requirements
+📁 Requirements<br>
 - PowerShell 7.x
 - ActiveDirectory module
 - Install via RSAT or:
 Install-WindowsFeature RSAT-AD-PowerShell
 - Windows OS with .NET Framework support for WinForms
 
-🚀 How to Use
+🚀 How to Use<br>
 - Clone or download the repository.
 - Ensure the script is unblocked:
 Unblock-File .\ServerSearchUtility.ps1
@@ -40,7 +40,7 @@ pwsh .\ServerSearchUtility.ps1
 - Click Search
 - Results will appear in the output window.
 
-🧩 Domain Configuration
+🧩 Domain Configuration<br>
 The script uses placeholder domain names for public sharing:
 $ADForests = @("domainA.local", "subA.domainA.local")
 
@@ -52,7 +52,7 @@ $ADForests = @(
 
 Each organization dropdown entry corresponds to a domain list in the script.
 
-🛠️ Customization
+🛠️ Customization<br>
 You can easily modify:
 - Organization names in the dropdown
 - Domain lists
@@ -62,6 +62,6 @@ You can easily modify:
 📷 Screenshot <br>
 <img width="361" height="401" alt="image" src="https://github.com/user-attachments/assets/660eccd7-551f-402e-b96b-a4a35f9e9e88" />
 
-🤝 Contributing
+🤝 Contributing<br>
 Pull requests and suggestions are welcome.
 Feel free to open an issue for enhancements or bug reports.
